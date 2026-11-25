@@ -1,0 +1,4 @@
+python = 3.10.0
+pip install flask firebase-admin werkzeug
+python app.py
+conda activate poth_hole_web_page
